@@ -1,2 +1,3 @@
-#!/bin/bash\necho
-#"#!/bin/bash" 
+
+#!/bin/bash
+ls 
