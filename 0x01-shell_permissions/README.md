@@ -12,3 +12,4 @@ the script 10-mirror_permissions mirros the file hello
 the script 11-directories_permissions sets executabel permissions for every one
 the script 12-directory_permissions creates directory dir with 751 permissions
 the script in 13-change_group changes group ownership
+string 100-change_owner_and_group changes owner and group owner
