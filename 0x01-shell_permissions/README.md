@@ -6,3 +6,4 @@ script 4-empty creates empty file
 script 5-execute uses command for execusiion permission
 the script 6-multiple_permissions is for multiple permissions
 script 7-everybody gives executable permission to everyone
+the scrip 8-James_Bond only gives others all rights and denies the owner and ther group
