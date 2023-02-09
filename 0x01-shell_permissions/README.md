@@ -3,3 +3,4 @@ users -  prints username of current user
 groups - list groups of current user
  script 3-new_owner changes file ownership
 script 4-empty creates empty file
+script 5-execute uses command for execusiion permission
