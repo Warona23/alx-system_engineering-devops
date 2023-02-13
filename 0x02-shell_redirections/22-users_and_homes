@@ -1,0 +1,2 @@
+#!/bin/bash
+getent passwd /ect/passwd | awk -F: '{print $1, $6}' | sort
