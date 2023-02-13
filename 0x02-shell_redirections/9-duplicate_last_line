@@ -1,0 +1,2 @@
+#!/bin/bash
+tac iacta | head -n1 | tr -d '\n'; echo 
