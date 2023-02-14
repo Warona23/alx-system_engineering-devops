@@ -1,2 +1,2 @@
 #!/bin/bash
-globalvarBEST="School"
+BEST="School"
